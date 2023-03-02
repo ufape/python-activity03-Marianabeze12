@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# YOUR FULL NAME
+# Mariana
 # UAG00098
 # Problem Set 3 - Problem 4
 # Description:
@@ -25,8 +25,18 @@ Output(s):
 
 
 def main():
-    pass  # your code here
+    print("Serie de Fibonacci")
+    n = int(input("Digite o valor inteiro (0 < N < 46):"))
 
+    if n < 0 or n > 46
+       print ("error
+              else:
+                fibonacci [0, 1]
+                for i in range (2, n):
+                  fibonacci.append(fibonacci[i-1]+ (finobacci[i-2]))
+
+                  sequencia = ''.join(str(num) for num in fibonacci)
+                  print (f"A serie de Fibonacci ate {n} e: {sequencia}")
 
 if __name__ == '__main__':
     main()
